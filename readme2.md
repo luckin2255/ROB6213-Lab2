@@ -209,3 +209,4 @@ python source/isaaclab_tasks/isaaclab_tasks/scripts/rsl_rl/train.py \
 python source/isaaclab_tasks/isaaclab_tasks/scripts/rsl_rl/train.py \
   task=rob6323_go2_flat_direct \
   video=True
+```
